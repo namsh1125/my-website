@@ -416,7 +416,7 @@ The Filter class com.fisa.pg.config.security.filter.PaymentTokenAuthenticationFi
 Spring Security의 필터 체인을 설정할 때는 단순히 코드를 작성하는 것 이상으로, 내부 메커니즘을 이해하는 것이 중요해요.
 이번 경험을 통해 Spring Security의 내부 동작 방식을 더 깊이 이해하게 되었고, 이를 바탕으로 더 안전한 결제 시스템을 구축할 수 있게 되었어요.
 
-여러분도 이 글을 통해 Spring Security의 필터 체인에 대한 이해를 높이고, Security 설정을 더 효과적으로 관리할 수 있기를 바라요.
+혹시 더 궁금한 점이나 다른 질문이 있다면 언제든지 문의해 주세요!
 
 ## 참고 자료
 
