@@ -1,0 +1,8 @@
+{
+  "label": "구축 가이드",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "원큐오더 프로젝트를 구축하며 경험했던 가이드를 공유합니다."
+  }
+}
